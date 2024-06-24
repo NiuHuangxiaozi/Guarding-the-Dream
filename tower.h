@@ -24,7 +24,7 @@ class Tower
     };
 public:
     Tower(int x,int y,int type ,int px,int py,QWidget *father);
-    virtual void show(){qDebug()<<"bb";};
+    virtual void show(){/*qDebug()<<"bb";*/};
     virtual ~Tower(){};
     bool is_in_range(int x,int y);
     virtual void interval_increase(){};

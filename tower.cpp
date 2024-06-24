@@ -262,7 +262,7 @@ void armyTower::show()
         {
             case 0:
                 if(isattack){
-                    qDebug()<<"attack";
+//                    qDebug()<<"attack";
                     movie.stop();
                     attackmovie.start();
                     label.setMovie(&attackmovie);
