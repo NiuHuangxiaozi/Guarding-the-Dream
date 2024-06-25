@@ -12,23 +12,21 @@
 
 # Introduction:
 
-This is a super game called  Guarding the Dream which is an interesting Tower Game like Carrot Fantasy.  Players should build the tower and defend the 
-
-the Dream not be attacked. 
+This is an exceptional game called *Guarding the Dream*, which is a captivating tower defense game similar to *Carrot Fantasy*. Players must construct towers and defend the Dream from being attacked.
 
 
 
-The outstanding feature of the game can be concluded as follows:
+The outstanding features of the game can be summarized as follows:
 
-1.  🗺️Provide the map select feature. Players can build the game map as  they want. 
+1.  🗺️ The game offers a map selection feature, allowing players to customize the game map according to their preferences.
 
-2.  👻We design normal monsters and some  special monsters  with some powerful skills.
+2.  👻 The game includes both normal and special monsters, with the latter possessing powerful skills.
 
-3.  🗼 The game provides two types of tower which one is  short-range tower and  the other is  long-range tower.
+3.  🗼 There are two types of towers available: short-range towers and long-range towers.
 
-4.  🌿Each tower can update and the max degree is three. With higher degree, the tower empowers higher damage , longer cast range and faster attack speed.
+4.  🌿 Each tower can be upgraded up to three levels. With each upgrade, the tower gains increased damage, extended range, and faster attack speed.
 
-5.  💎We design  four special stones which can be mounted on the tower. The stones will enable the tower some unexpected  functions.
+5.  💎 The game features four unique stones that can be mounted on the towers. These stones grant the towers additional unexpected abilities.
 
    
 
@@ -40,21 +38,19 @@ The Cover  of the game:
 
 # Latest News：
 
-- [2022/10] Finish the initial idea of the  game and  write  the code of the map function.
+- [2022/10] Completed the initial concept of the game and developed the map functionality.
 
-- [2022/11/01]  Finish the  tower function such as upgrade, attack range and build function.
+- [2022/11/01]   Implemented tower functions, including upgrades, attack range, and construction.
 
-- [2022/11/07] Finish some functions about monster such as movement and head. How to move along with the read and some interactions with the tower
+- [2022/11/07] Developed monster-related functions such as movement and head mechanics, including pathing and interactions with towers.
 
-- [2022/11/14] Finish the  special stones and the  special skills of the monster.
+- [2022/11/14] Finalized the implementation of special stones and the unique skills of special monsters.
 
-- [2022/11/28] Finish some bugs about background music and representation of the tower and monster.
+- [2022/11/28] Resolved bugs related to background music and the visual representation of towers and monsters.
 
-- [2022/12/02] Fix some small bugs and beautify the UI.
+- [2022/12/02] Fixed minor bugs and enhanced the UI design.
 
-- [2022/12/10] Finish all the function of the game.
-
-  
+- [2022/12/10] Completed all game functionalities.
 
 ------
 
@@ -62,29 +58,35 @@ The Cover  of the game:
 
 # Details:
 
-Here are some descriptions of this game:
+Here are some details of the game:
 
 #### Stage one : Map construction.
 
-Users can build the map by themselves. The  game provide five different blocks which are shown as follows:
+Users can build the map by themselves. The  game provide five different blocks which are shown as follows: 
 
 ![startbackground](./ReadmePhoto/blocks.png)
 
 
 
-Road Block: The leftmost block represent the road that monsters can walk through and you can also build short-range tower to prevent the enemy from advancing.
+**Road Block:** The leftmost block represents the road that monsters can traverse. You can also build short-range towers here to prevent the enemy from advancing.
 
-Decoration Block: The block with forests and  windmill just serves as a decoration of the map ( just for fun). 
 
-Tower Platform Block: The white block showed here is a platform that users can build long-range towers here to attack the monsters . 
 
-Birth Place and Target Place: The block which contains a red round represents  the birth place of the monsters  and the rightmost stands for the dream that you should defend and avoid the enemies to inter.
+**Decoration Block:** The block with forests and a windmill serves purely as decoration for the map (just for fun).
+
+
+
+**Tower Platform Block:** The white block shown here is a platform where users can build long-range towers to attack the monsters.
+
+ 
+
+**Birth Place and Target Place:** The block with a red circle represents the monsters' spawn point, while the rightmost block stands for the Dream that you must defend to prevent enemies from entering.
 
 
 
 notice:
 
-You should guarantee that the two points  (from the birth place to target place)  are connected by a path or the game will give out an error notice:
+You must ensure that the two points (from the birth place to the target place) are connected by a path, or the game will display an error message.
 
 ![startbackground](./ReadmePhoto/connect.png)
 
@@ -94,7 +96,7 @@ You should guarantee that the two points  (from the birth place to target place)
 
 ### Stage two : Ready to build your towers.
 
-The picture below shows the key part of the game:
+The image below illustrates the key aspect of the game:
 
 ![mainwindow](./ReadmePhoto/mainwindow.png)
 
@@ -157,7 +159,7 @@ Now  the game has four type monsters :
 
 Here is a picture which shows the process of the game:
 
-![playinggame](D:\Tower\Tower\ReadmePhoto\playinggame.png)
+![playinggame](./ReadmePhoto/playinggame.png)
 
 
 
@@ -173,8 +175,6 @@ Here is a picture which shows the process of the game:
 
 - qt-opensource-windows-x86-5.12.12  ,click here to  [download](https://www.qt.io/blog/qt-5.12.12-released).
 - Windows 11 
-
-
 
 
 
