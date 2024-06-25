@@ -102,11 +102,11 @@ The image below illustrates the key aspect of the game:
 
 
 
+You can build short-range towers on road blocks and long-range towers on tower platform blocks. The picture shows four monster spawn points and one target point. These points are connected by roads consisting of road blocks. We provide two types of towers, each with its own cooldown period.
 
 
-​		You can build short-range tower on the road block  and build long-range tower in the Tower platform block.  The picture shows four Birth place of the monster and one target place. 
 
-​		The two types of points are connected by the road which are composed of road blocks.  We provide two types of towers. Each one has a cool down scroll.  
+
 
 The details of the tower can be summed up as follows:
 
@@ -123,7 +123,7 @@ The details of the tower can be summed up as follows:
 
 
 
-​		We also provide four types of magic stones which will be described as follows:
+Additionally, we offer four types of magic stones, which will be described in detail below.
 
 | Stones                                                       | Description                                                  |
 | ------------------------------------------------------------ | ------------------------------------------------------------ |
@@ -136,9 +136,7 @@ Users can install two magic stones on the one tower which will enable tower to  
 
 ------
 
-
-
-The GET MORE STARS button refers to update the tower.  User can use the score to build new tower and get scores through killing the monsters.
+The "GET MORE STARS" button is used to upgrade towers. Users can spend their scores to build new towers and earn additional scores by defeating monsters.
 
 
 
