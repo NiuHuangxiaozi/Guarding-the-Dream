@@ -2,7 +2,11 @@
 
 
 
+
+
 ------
+
+
 
 
 
@@ -37,12 +41,22 @@ The Cover  of the game:
 # Latest News：
 
 - [2022/10] Finish the initial idea of the  game and  write  the code of the map function.
+
 - [2022/11/01]  Finish the  tower function such as upgrade, attack range and build function.
+
 - [2022/11/07] Finish some functions about monster such as movement and head. How to move along with the read and some interactions with the tower
+
 - [2022/11/14] Finish the  special stones and the  special skills of the monster.
+
 - [2022/11/28] Finish some bugs about background music and representation of the tower and monster.
+
 - [2022/12/02] Fix some small bugs and beautify the UI.
+
 - [2022/12/10] Finish all the function of the game.
+
+  
+
+------
 
 
 
@@ -55,6 +69,8 @@ Here are some descriptions of this game:
 Users can build the map by themselves. The  game provide five different blocks which are shown as follows:
 
 ![startbackground](./ReadmePhoto/blocks.png)
+
+
 
 Road Block: The leftmost block represent the road that monsters can walk through and you can also build short-range tower to prevent the enemy from advancing.
 
@@ -74,11 +90,15 @@ You should guarantee that the two points  (from the birth place to target place)
 
 
 
+
+
 ### Stage two : Ready to build your towers.
 
 The picture below shows the key part of the game:
 
-![mainwindow](D:\Tower\Tower\ReadmePhoto\mainwindow.png)
+![mainwindow](./ReadmePhoto/mainwindow.png)
+
+
 
 
 
@@ -110,7 +130,7 @@ The details of the tower can be summed up as follows:
 | ![rampage_select](./ReadmePhoto/rampage_select.png)          | Rampage axe:     Increase the attack speed of the tower.     |
 | ![group_injuries_select](./ReadmePhoto/group_injuries_select.png) | Area of effect Heart:     enable the tower can attack many enemies at the same time. |
 
-Users can install two magic stones on the one tower which will  enable tower to  perform different effects. 
+Users can install two magic stones on the one tower which will enable tower to  perform different effects.  Whenever a monster is killed, it will randomly drop a gem.
 
 ------
 
@@ -135,12 +155,26 @@ Now  the game has four type monsters :
 
 
 
+Here is a picture which shows the process of the game:
+
+![playinggame](D:\Tower\Tower\ReadmePhoto\playinggame.png)
+
+
+
+
+
+
+
+------
+
 
 
 # Requirements
 
 - qt-opensource-windows-x86-5.12.12  ,click here to  [download](https://www.qt.io/blog/qt-5.12.12-released).
 - Windows 11 
+
+
 
 
 
@@ -152,10 +186,12 @@ Clone the repo and  open the tower.pro using Qt,  build the product and run the 
 
 # Fixed Issues:
 
-if you  download the program and meet the question below,
+If you add a large source file into the Qt program, you might meet this issue:
 
+```
+error: [Makefile.Release:2396: release/qrc_res.o] Error 1
+```
 
+According to [this](https://blog.csdn.net/Fuel_Ming/article/details/120949777) , I solve the problem.
 
 # Videos:
-
-- 
