@@ -54,7 +54,7 @@ The Cover  of the game:
 
 - [2022/12/10] Completed all game functionalities.
 
-  S
+  
 
 ------
 
@@ -214,11 +214,10 @@ According to [this](https://blog.csdn.net/Fuel_Ming/article/details/120949777) ,
 
 # Videos:
 
-The background music is a bit loud, please turn it down:
+[[Vedio](https://www.bilibili.com/video/BV1F23zeNES8/?vd_source=4985f83853fea5fcd090f8f95973265a)] The background music is a bit loud, please turn it down.
 
-<div style="position: relative; padding: 1% 1%;">
-<iframe style="position: absolute; width: 800px; height: 500px; left: 0; top: 0;" src="https://www.bilibili.com/video/BV1F23zeNES8/?vd_source=4985f83853fea5fcd090f8f95973265a" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"></iframe>
-</div>
+
+
 
 ------
 
