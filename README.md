@@ -1,6 +1,6 @@
-# <center>Guarding the Dream</center>
 
 
+<center><font color=red size=72>Guarding the Dream</font><center>
 
 
 
@@ -54,13 +54,11 @@ The Cover  of the game:
 
 - [2022/12/10] Completed all game functionalities.
 
-------
-
-
-
-
+  S
 
 ------
+
+
 
 
 
@@ -173,12 +171,6 @@ Here is a picture which shows the process of the game:
 
 
 
-
-
-
-
-
-
 ------
 
 
@@ -216,15 +208,13 @@ According to [this](https://blog.csdn.net/Fuel_Ming/article/details/120949777) ,
 
 
 
-
-
 ------
 
 
 
 # Videos:
 
-
+<video src="D:\Tower\Tower\ReadmePhoto\showvedio.mkv"></video>
 
 ------
 
@@ -232,7 +222,6 @@ According to [this](https://blog.csdn.net/Fuel_Ming/article/details/120949777) ,
 
 ## Future Work：
 
-1. Changing from a single process to multiple processes :   increase the smoothness of the game
-2. Beautify the UI
-
-# 
+1. Changing from a single process to multiple processes :   increase the smoothness of the game.
+2. Beautify the UI.
+3. Fix some invisible bugs.
