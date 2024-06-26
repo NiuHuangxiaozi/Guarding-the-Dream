@@ -34,6 +34,8 @@ The Cover  of the game:
 
 ![startbackground](./ReadmePhoto/cover.png)
 
+------
+
 
 
 # Latest News：
@@ -51,6 +53,12 @@ The Cover  of the game:
 - [2022/12/02] Fixed minor bugs and enhanced the UI design.
 
 - [2022/12/10] Completed all game functionalities.
+
+------
+
+
+
+
 
 ------
 
@@ -81,6 +89,8 @@ Users can build the map by themselves. The  game provide five different blocks w
  
 
 **Birth Place and Target Place:** The block with a red circle represents the monsters' spawn point, while the rightmost block stands for the Dream that you must defend to prevent enemies from entering.
+
+
 
 
 
@@ -165,6 +175,10 @@ Here is a picture which shows the process of the game:
 
 
 
+
+
+
+
 ------
 
 
@@ -176,9 +190,17 @@ Here is a picture which shows the process of the game:
 
 
 
+------
+
+
+
 # How to get:
 
 Clone the repo and  open the tower.pro using Qt,  build the product and run the program.
+
+
+
+------
 
 
 
@@ -192,4 +214,25 @@ error: [Makefile.Release:2396: release/qrc_res.o] Error 1
 
 According to [this](https://blog.csdn.net/Fuel_Ming/article/details/120949777) , I solve the problem.
 
+
+
+
+
+------
+
+
+
 # Videos:
+
+
+
+------
+
+
+
+## Future Work：
+
+1. Changing from a single process to multiple processes :   increase the smoothness of the game
+2. Beautify the UI
+
+# 
