@@ -1,7 +1,6 @@
 
 
-<center><font color=red size=72>Guarding the Dream</font><center>
-
+# Guarding the Dream
 
 
 ------
